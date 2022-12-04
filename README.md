@@ -19,6 +19,12 @@ EECS281: (Data Structures and Algorithms)
 - Implementation of Logfile Processing Algorithm and returns all logs that match certain search and filtering parameters specified at the command line
 - Implementation of a drone routing algorithm using a graph, TSP heuristic, prims and a branch and bounding algorthmic strategy
 
+EECS370: (Introduction to Computer Organization):
+- Implemented an Assembler for LC2K
+- Recursive Multiplier in LC2K
+- LC2K Pipeline Program
+- Cache and LRU Simulator
+
 EECS485: (Web Development and Databases)
 - Implementation of Instagram as a static page, server-side dynamic and client side dynamic
     - Utilized HTTP, CSS, SQLite3 and Javascript libraries to build all core functionality of Instragram:
@@ -43,3 +49,10 @@ EECS 482 Advance Version:
   - Disk Write
   - Swap File
   - Clock Algorithm
+
+EECS 497 (Human Centered Software Engineering CAPSTONE):
+- Built a website to teach children about online scams
+- Core design idea is "Not You"
+- Wrote HTML, CSS, and Javascript files to mimic the official roblox website as well as education pages
+- Worked in a team of 5
+- Operated under an Agile development framework
