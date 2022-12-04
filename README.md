@@ -32,3 +32,14 @@ EECS485: (Web Development and Databases)
       - Hosted on a server [AWS EC2 server in my case]
       - Database querying using a Rest API
 - Implementation of website that uses Distributed Systems Framework
+
+EECS 482 Advance Version:
+- Implementation and usage of Thread library
+  - Mutex, cv.wait(), etc.
+- Implementation of Pager
+  - Allocation of memory resources to new programs
+- Implementation of File System
+  - Disk Read
+  - Disk Write
+  - Swap File
+  - Clock Algorithm
