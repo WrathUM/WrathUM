@@ -25,6 +25,10 @@ EECS370: (Introduction to Computer Organization):
 - LC2K Pipeline Program
 - Cache and LRU Simulator
 
+EECS445: (Introduction to Machine Learning):
+- Implemented a sentiment analysis model to identify if reddit comments were positive or negative. Model is built on top of the idea of a bag of words. 
+- Implemented a image classifier. Trained under a CNN to be able to classify dog breeds.
+
 EECS485: (Web Development and Databases)
 - Implementation of Instagram as a static page, server-side dynamic and client side dynamic
     - Utilized HTTP, CSS, SQLite3 and Javascript libraries to build all core functionality of Instragram:
@@ -39,7 +43,8 @@ EECS485: (Web Development and Databases)
       - Database querying using a Rest API
 - Implementation of website that uses Distributed Systems Framework
 
-EECS 482 Advance Version:
+EECS 482 (Operating Systems Advance Version):
+All projects were made to be compatible with multi-threaded operations. 
 - Implementation and usage of Thread library
   - Mutex, cv.wait(), etc.
 - Implementation of Pager
@@ -49,6 +54,7 @@ EECS 482 Advance Version:
   - Disk Write
   - Swap File
   - Clock Algorithm
+  - Network Sockets
 
 EECS 497 (Human Centered Software Engineering CAPSTONE):
 - Built a website to teach children about online scams
