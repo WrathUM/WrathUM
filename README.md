@@ -3,6 +3,8 @@ Hi, I am a current student at the University of Michigan, studying Computer Scie
 I also have a private repository containing all of my school projects as we are not allowed to publically display the code to prevent honor code violations. 
 Private copies can be provided if you are an employerer and are interested in seeing how I code and or problem solve!
 
+I have also started to document my leetcode question solutions on this github.
+
 EECS280: (Data Structures)
 - Implementation of a Basic Calculator
 - Implementation of a Picture re-scaler
